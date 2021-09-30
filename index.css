@@ -32,7 +32,7 @@
 
 #minute{
 position: relative;
-    width: 300px;
+    width: 25px;
     height: 350px;
     background: #fff;
     margin: 0 auto;
@@ -42,7 +42,7 @@ position: relative;
 
 #second{
   position: relative;
-    width: 300px;
+    width: 25px;
     height: 350px;
     background: #fff;
     margin: 0 auto;
